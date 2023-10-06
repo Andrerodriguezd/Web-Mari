@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"name": "Web-Mari",
+		"path": "../../../Web-Mari"
+	},
+	{
+		"name": "SheCodes",
+		"path": "../.."
+	},
+	{
+		"path": "../../weather-react"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "SheCodes"
+  }
+}

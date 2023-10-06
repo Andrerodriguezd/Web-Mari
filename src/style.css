@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  text-decoration: none;
+}
+
+p {
+  font-size: 40px;
+  padding: 0px;
+}
+
+ul {
+  font-size: 20p;
+  list-style: none;
+  padding: 0px;
+}
