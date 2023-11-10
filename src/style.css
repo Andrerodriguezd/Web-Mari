@@ -13,3 +13,51 @@ ul {
   list-style: none;
   padding: 0px;
 }
+
+.fw-light {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.about {
+  display: flex;
+  text-align: right;
+  margin: 10px;
+}
+
+.nombre-home {
+  position: absolute;
+  right: 100px !important;
+  top: 250px;
+}
+
+.home-link {
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.home-title {
+  font-family: "Didact Gothic", sans-serif;
+  font-size: 27px;
+}
+.home-link {
+  font-family: "Didact Gothic", sans-serif;
+}
+
+.home-link:hover {
+  background-color: #394d7f;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.nombre-mari {
+  font-size: 40px;
+}
+
+.about-mari {
+  width: 80%;
+}
+
+.navbar {
+  font-family: "Didact Gothic", sans-serif !important;
+}
