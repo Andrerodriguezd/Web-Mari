@@ -1,6 +1,5 @@
-.container {
-  text-align: center;
-  text-decoration: none;
+body {
+  font-family: "Didact Gothic", sans-serif !important;
 }
 
 p {
@@ -12,6 +11,10 @@ ul {
   font-size: 20p;
   list-style: none;
   padding: 0px;
+}
+.container {
+  text-align: center;
+  text-decoration: none;
 }
 
 .fw-light {
