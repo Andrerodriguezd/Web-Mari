@@ -75,3 +75,24 @@ font-size: 200px;
 padding-top: 100px;
 
 }
+
+.foto-home-vertical {
+  display:none;
+}
+@media (max-width:600px) {
+.foto-home {
+  display:none;
+
+}
+.foto-home-vertical{
+  display:block;
+
+}
+.nombre-home {
+  position:fixed;
+  right: 30px !important;
+  top: 150px;
+  text-align: right;
+  
+}
+}
