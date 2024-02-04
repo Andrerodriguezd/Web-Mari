@@ -48,8 +48,9 @@ ul {
 }
 
 .home-link:hover {
-  background-color: #394d7f;
-  padding: 5px;
+  background-color: #F0DCDD;
+  padding: 4px 13px;
+  
   border-radius: 10px;
 }
 
@@ -67,4 +68,10 @@ ul {
 
 .social-icons {
   color: black;
+}
+
+.about-bio{
+font-size: 200px;
+padding-top: 100px;
+
 }
