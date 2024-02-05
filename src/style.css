@@ -27,10 +27,19 @@ ul {
   margin: 10px;
 }
 
+.container-home {
+
+  position: relative;
+}
+
 .nombre-home {
+  display: flex;
+  flex-direction: column;
   position: absolute; 
-  right: 380px !important;
+  right: 80px !important;
   top: 250px;
+
+
 }
 
 .home-link {
@@ -79,7 +88,10 @@ padding-top: 100px;
 .foto-home-vertical {
   display:none;
 }
-@media (max-width:600px) {
+@media (max-width:1180px) {
+
+
+  
 .foto-home {
   display:none;
 
@@ -88,11 +100,57 @@ padding-top: 100px;
   display:block;
 
 }
-.nombre-home {
-  position:fixed;
-  right: 30px !important;
-  top: 150px;
-  text-align: right;
+
+.nombre-mari {
+  font-size: 26px;
+}
+
+.home-title {
+  font-size: 19px;
+
   
+
+}
+
+
+
+}
+
+@media (max-width:767px) {
+
+  .nombre-home {
+  
+position: absolute;
+right: 10px !important
+
+
+
+  }
+}
+
+@media (max-width:440px) {
+
+  .nombre-mari {
+    font-size:  16px;
+  }
+  
+  .home-title {
+    font-size: 13px;
+  
+    
+  
+  }
+
+  .nombre-home {
+  
+    position: absolute;
+    right: 10px !important;
+    top: 100px;
+    
+    
+}
+
+.home-link {
+  font-size: 13px;
 }
 }
