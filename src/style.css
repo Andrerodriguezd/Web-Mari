@@ -144,9 +144,7 @@ footer {
   text-align: center;
 }
 
-.about-bio {
-  position: relative;
-  top: -100px
+
 
 }
 
@@ -172,20 +170,21 @@ right: 10px !important
     padding-bottom: 50px;
     text-align: center;
   }
-  .about-bio {
-    position: relative;
-    top: -100px
+.about-bio {
+  position: relative;
+  top: -100px
   
+}
 }
 
 @media (max-width:440px) {
 
   .nombre-mari {
-    font-size:  16px;
+    font-size:  20px;
   }
   
   .home-title {
-    font-size: 13px;
+    font-size: 15px;
   
     
   
@@ -201,7 +200,7 @@ right: 10px !important
 }
 
 .home-link {
-  font-size: 13px;
+  font-size: 16px;
 }
 
 .footer-home {
