@@ -11,6 +11,7 @@ ul {
   font-size: 20p;
   list-style: none;
   padding: 0px;
+;
 }
 .container {
   text-align: center;
@@ -76,8 +77,9 @@ ul {
 }
 
 .social-icons {
-  color: black;
+  color:black;
 }
+
 
 .about-bio{
 font-size: 200px;
@@ -104,6 +106,8 @@ footer {
   padding-bottom: 15px;
   text-align: center;
 }
+
+
 
 
 
@@ -140,7 +144,9 @@ footer {
   text-align: center;
 }
 
-
+.about-bio {
+  position: relative;
+  top: -100px
 
 }
 
@@ -166,7 +172,9 @@ right: 10px !important
     padding-bottom: 50px;
     text-align: center;
   }
-
+  .about-bio {
+    position: relative;
+    top: -100px
   
 }
 
@@ -211,11 +219,20 @@ right: 10px !important
 footer {
   padding-bottom: 50px;
   text-align: center;
+  
+   
 }
 
 img {
   max-width: 50%;
   padding-top: 10px;
 }
+
+.about-bio {
+  position: relative;
+  top: -100px
+}
+
+
 
 }
