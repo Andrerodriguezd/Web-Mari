@@ -18,6 +18,11 @@ ul {
   text-decoration: none;
 }
 
+footer {
+  padding-bottom: 15px;
+  text-align: center;
+}
+
 .fw-light {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
@@ -102,12 +107,10 @@ padding-top: 100px;
   
 }
 
-footer {
-  padding-bottom: 15px;
-  text-align: center;
+
+.navbar-brand {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
 }
-
-
 
 
 
@@ -138,6 +141,9 @@ footer {
 
   background-color: red !important;
 }
+
+
+
 
 img {
   max-width: 50%;
