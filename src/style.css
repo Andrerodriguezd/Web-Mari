@@ -134,6 +134,11 @@ footer {
 
 }
 
+.homepage-title {
+
+  background-color: red !important;
+}
+
 img {
   max-width: 50%;
   padding-top: 10px;
